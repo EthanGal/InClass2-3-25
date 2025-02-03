@@ -1,1 +1,2 @@
 This is a file, it has been changed now
+This is the branch version
