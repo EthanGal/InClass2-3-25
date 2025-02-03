@@ -1,2 +1,2 @@
-This is a file, it has been changed now
+This is a file, it has been changed now, I changed this again from origin 
 This is the branch version
