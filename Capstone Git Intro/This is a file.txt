@@ -1,2 +1,4 @@
-This is a file, it has been changed now, I changed this again from origin 
+
+This is a file, it has been changed now, BRANCH CHANGED THIS LINE
+>>>>>>> Work-on-feature-abc123
 This is the branch version
